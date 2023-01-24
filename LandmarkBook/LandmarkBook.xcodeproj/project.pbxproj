@@ -13,6 +13,7 @@
 		F6F793A3297F9DA200B4BD4A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6F793A1297F9DA200B4BD4A /* Main.storyboard */; };
 		F6F793A5297F9DA300B4BD4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6F793A4297F9DA300B4BD4A /* Assets.xcassets */; };
 		F6F793A8297F9DA300B4BD4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6F793A6297F9DA300B4BD4A /* LaunchScreen.storyboard */; };
+		F6F793B0297FA85900B4BD4A /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F793AF297FA85900B4BD4A /* DetailVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F6F793A4297F9DA300B4BD4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F6F793A7297F9DA300B4BD4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F6F793A9297F9DA300B4BD4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6F793AF297FA85900B4BD4A /* DetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F6F793A4297F9DA300B4BD4A /* Assets.xcassets */,
 				F6F793A6297F9DA300B4BD4A /* LaunchScreen.storyboard */,
 				F6F793A9297F9DA300B4BD4A /* Info.plist */,
+				F6F793AF297FA85900B4BD4A /* DetailVC.swift */,
 			);
 			path = LandmarkBook;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F6F793A0297F9DA200B4BD4A /* ViewController.swift in Sources */,
+				F6F793B0297FA85900B4BD4A /* DetailVC.swift in Sources */,
 				F6F7939C297F9DA200B4BD4A /* AppDelegate.swift in Sources */,
 				F6F7939E297F9DA200B4BD4A /* SceneDelegate.swift in Sources */,
 			);
